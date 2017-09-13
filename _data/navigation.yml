@@ -1,9 +1,9 @@
-- name: Pricing
-  link: /pricing/
+- name: Features
+  link: /product-features/
   new_window: false
   highlight: false
-- name: Blog
-  link: /blog/
+- name: Industry
+  link: /for/
   new_window: false
   highlight: false
 - name: About
@@ -14,11 +14,12 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
+- name: Sign in
+  link: >-
+    https://cta-service-cms2.hubspot.com/ctas/v2/public/cs/c/?cta_guid=9ecbabf2-fcf8-4d4c-9b95-854906d56480&placement_guid=403bbcd5-65c0-4106-9a03-59ae5d93044c&portal_id=1702521&redirect_url=APefjpF3o61n43bJ9NBEju1SdicxSXkP8NkBBIEmRV9kNAVb0-cMyxyZhBzUYv6884if3mVlawO9hMFmC-cdQaahUx5CU5hOZVcF0lbnEB3_yUh3oqt4dMRyDNZSfkvEn3ccsiLH51zGi7AOgMORbL3qc6po1752FgW6omS2LnnCPpe7oW00bC32tg8UErZ-3BIGC77h0huDRmdw5jVogpbOBUf-TiINKAJxcQF0Auy2wRZlOK-DvBQ&hsutk=85f2ff7dd26dd73d373e8cbafbee3342&canon=https%3A%2F%2Fwww.nomosone.com%2F&click=2a0a8425-46fd-4422-a1f3-d79aa506209e&utm_referrer=http%3A%2F%2Fnomosone.com%2F&pageId=4306080695
   new_window: true
   highlight: false
-- name: Sign Up
-  link: /
-  new_window: true
+- name: Schedule Demo
+  link: /schedule-demo/
+  new_window: false
   highlight: true
