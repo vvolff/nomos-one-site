@@ -3,9 +3,11 @@
 	text-decoration: none;
 	padding: 10px 30px;
 	background: $brand-color;
-	border-radius: 3px;
-	border: 1px solid rgba(255,255,255,.5);
+	border-radius: 5px;
+	border: 2px solid rgba(255,255,255,1);
 	transition: .2s ease-in-out;
+	font-family: "Work Sans", "Helvetica Neue", "Helvetica", "Arial";
+	font-size: 20px;
 }
 
 .button a:hover, input[type=submit]:hover {
@@ -15,15 +17,15 @@
 }
 
 .button.alt a {
-	background: rgba(255,255,255,0.15);
-	border-radius: 3px;
-	border: 1px solid rgba(255, 255, 255, 0.3);
-	padding: 16px 50px;
+	background: rgba(255,255,255,0);
+	border-radius: 5px;
+	border: 2px solid rgba(255, 255, 255, 1);
+	padding: 16px 30px;
 }
 
 .button.alt a:hover {
-	background: #fff;
-	color: $brand-color;
+	background: rgba(255,255,255,0.1);
+	border: 2px solid rgba(255, 255, 255, 0);
 }
 
 textarea, input, button, select { font-family: inherit; font-size: inherit; }
